@@ -1,0 +1,135 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{magne2008abastecimiento}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=774328d020b6f6dbd121043ba19d41c7}{%
+           family={Magne},
+           familyi={M\bibinitperiod},
+           given={Freddy},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{fullhash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{fullhashraw}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{bibnamehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authorbibnamehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authornamehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authorfullhash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authorfullhashraw}{774328d020b6f6dbd121043ba19d41c7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Obtenido de http://siar. minam. gob. pe/puno/sites/default/files/archivos/public/docs/1522. pdf}
+      \field{title}{Abastecimiento, diseño y construcción de sistemas de agua potable modernizando el aprendizaje y enseñanza en la asignatura de Ingeniería Sanitaria I}
+      \field{year}{2008}
+    \endentry
+    \entry{os100}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bbbffe540e9df36d8c8f847b529e3282}{%
+           family={RNE},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{fullhash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{fullhashraw}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{bibnamehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authorbibnamehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authornamehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authorfullhash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authorfullhashraw}{bbbffe540e9df36d8c8f847b529e3282}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{En base a la información recopilada el proyectista deberá evaluar la vulnerabilidad de los sistemas ante situaciones de emergencias, diseñando sistemas flexibles en su operación, sin descuidar el aspecto económico. Se deberá solicitar a la Empresa de Agua la respectiva factibilidad de servicios. Todas las estructuras deberán contar con libre disponibilidad para su utilización. 1.2 Período de diseño Para proyectos de poblaciones o ciudades, así como para proyectos de mejoramiento y/o ampliación de servicios en asentamientos existentes, el período de diseño será fijado por el proyectista utilizando un procedimiento que garantice los períodos óptimos para cada componente de los sistemas.}
+      \field{title}{Reglamento Nacional de Edificaciones del Perú}
+      \field{volume}{OS. 100}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{magne2008abastecimiento}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=774328d020b6f6dbd121043ba19d41c7}{%
+           family={Magne},
+           familyi={M\bibinitperiod},
+           given={Freddy},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{fullhash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{fullhashraw}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{bibnamehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authorbibnamehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authornamehash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authorfullhash}{774328d020b6f6dbd121043ba19d41c7}
+      \strng{authorfullhashraw}{774328d020b6f6dbd121043ba19d41c7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Obtenido de http://siar. minam. gob. pe/puno/sites/default/files/archivos/public/docs/1522. pdf}
+      \field{title}{Abastecimiento, diseño y construcción de sistemas de agua potable modernizando el aprendizaje y enseñanza en la asignatura de Ingeniería Sanitaria I}
+      \field{year}{2008}
+    \endentry
+    \entry{os100}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bbbffe540e9df36d8c8f847b529e3282}{%
+           family={RNE},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{fullhash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{fullhashraw}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{bibnamehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authorbibnamehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authornamehash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authorfullhash}{bbbffe540e9df36d8c8f847b529e3282}
+      \strng{authorfullhashraw}{bbbffe540e9df36d8c8f847b529e3282}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{En base a la información recopilada el proyectista deberá evaluar la vulnerabilidad de los sistemas ante situaciones de emergencias, diseñando sistemas flexibles en su operación, sin descuidar el aspecto económico. Se deberá solicitar a la Empresa de Agua la respectiva factibilidad de servicios. Todas las estructuras deberán contar con libre disponibilidad para su utilización. 1.2 Período de diseño Para proyectos de poblaciones o ciudades, así como para proyectos de mejoramiento y/o ampliación de servicios en asentamientos existentes, el período de diseño será fijado por el proyectista utilizando un procedimiento que garantice los períodos óptimos para cada componente de los sistemas.}
+      \field{title}{Reglamento Nacional de Edificaciones del Perú}
+      \field{volume}{OS. 100}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

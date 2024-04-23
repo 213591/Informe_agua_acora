@@ -1,0 +1,96 @@
+\documentclass[12pt,a4paper,openany]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+%PAQUETES PARA PORTADA
+%\usepackage{lmodern} %para escribir fuentes grandes
+\renewcommand*{\familydefault}{\sfdefault}
+%\usepackage[showframe]{geometry}
+
+%PAQUETES PARA ENCABEZADO Y PIE DE PÁGINA
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{2pt}
+\cfoot{}
+\rhead{\today\\ Pág. \thepage\ - \pageref{LastPage}}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{setspace}
+%\doublespacing
+\usepackage{lipsum}
+\usepackage{varioref}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\definecolor{azul}{RGB}{0,67,148}
+\definecolor{amarillo}{RGB}{255,204,0}
+\definecolor{naranja}{RGB}{247,116,2}
+
+\usepackage[left=2.54cm, right=2.54cm, top=2.54cm, bottom=2.54cm]{geometry}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
+\usepackage[
+    backend=biber,
+    style = apa,
+    sortcites,
+    url=true
+]{biblatex}
+%style = alphabetic, apa, ieee
+\addbibresource{biblio.bib}
+\usepackage{subcaption}
+\usepackage[Glenn]{fncychap} %Glenn, Rejne, Sonny, Bjarme, Conny, Lenny (estilos de capítulos)
+
+\title{Abastecimiento de Agua para la zona urbana del distrito de Acora}
+\author{JINCHUÑA SALAMANCA Ronald}
+
+\begin{document}
+
+    %Frontmatter
+    %--------------------------------------
+    \frontmatter
+
+    \include{caratula}
+
+    %Dedicatoria
+    %Agradecimiento
+
+    %Índice
+    \tableofcontents
+    %\listoffigures
+    %\listoftables
+
+
+    %----------------------------------------------
+
+
+    %Mainmatter
+    %------------------------------------------
+    \mainmatter
+    %INTRODUCCIÓN
+    \include{capitulos/introduccion}
+
+    %MARCO TEÓRICO Y NORMATIVO
+    \include{capitulos/marco_teo_norma}
+
+    %INGENIERÍA DEL PROYECTO
+    \include{capitulos/ing_proyecto}
+
+    %DISEÑO DEL SISTEMA DE ABASTECIMIENTO DE AGUA
+    \include{capitulos/diseno}
+
+    %CONCLUSIONES Y SUGERENCIAS
+    %\include{}
+    %------------------------------------------
+
+    
+    %Backmatter
+    %---------------------------------------
+    \backmatter
+
+    %BIBLIOGRAFÍA
+    \printbibliography[heading=bibintoc]
+
+    %ANEXOS
+    %\include{}
+
+    %---------------------------------------
+\end{document}

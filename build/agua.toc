@@ -1,0 +1,40 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}INTRODUCCIÓN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Justificación}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivos}{1}{section.1.2}%
+\contentsline {chapter}{\numberline {2}MARCO TEÓRICO Y NORMATIVO}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Reglamentos de ejecución de proyectos}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Nivel actual de cobertura de servicio}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Sistemas de agua potable urbano y rural}{2}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Periodo de diseño y estudios de población}{2}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Dotación, consumo y almacenamiento}{2}{section.2.5}%
+\contentsline {subsubsection}{Dotación y consumo de agua}{2}{section*.2}%
+\contentsline {subsubsection}{Consumo de agua}{3}{section*.3}%
+\contentsline {subsubsection}{Almacenamiento del agua}{3}{section*.4}%
+\contentsline {section}{\numberline {2.6}Fuentes de abastecimiento y sistemas de captación}{3}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Variaciones de consumo}{3}{section.2.7}%
+\contentsline {chapter}{\numberline {3}INGENIERÍA DEL PROYECTO}{4}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Estudios preliminares del Proyecto}{4}{section.3.1}%
+\contentsline {subsubsection}{Descripción de la zona del proyecto}{4}{section*.5}%
+\contentsline {subsubsection}{Ubicación política}{4}{section*.6}%
+\contentsline {subsubsection}{Ubicación geográfica}{4}{section*.7}%
+\contentsline {section}{\numberline {3.2}Aspectos físicos de la zona}{4}{section.3.2}%
+\contentsline {subsubsection}{Climatología}{4}{section*.8}%
+\contentsline {subsubsection}{Hidrografía y orografía}{4}{section*.9}%
+\contentsline {subsubsection}{Ecología}{4}{section*.10}%
+\contentsline {subsubsection}{Aspectos socioeconómicos y culturales}{4}{section*.11}%
+\contentsline {subsubsection}{Salud, higiene y saneamiento básico}{4}{section*.12}%
+\contentsline {subsubsection}{Características de las viviendas}{4}{section*.13}%
+\contentsline {subsubsection}{Características de la educación}{4}{section*.14}%
+\contentsline {subsubsection}{Vías de comunicación}{4}{section*.15}%
+\contentsline {section}{\numberline {3.3}Estudios básicos de ingeniería}{4}{section.3.3}%
+\contentsline {subsubsection}{Estudio topográfico}{4}{section*.16}%
+\contentsline {subsubsection}{Estudio hidrológico}{4}{section*.17}%
+\contentsline {subsubsection}{Fuentes de abastecimiento}{4}{section*.18}%
+\contentsline {subsubsection}{Definición de parámetros de diseño}{4}{section*.19}%
+\contentsline {chapter}{\numberline {4}DISEÑO DEL SISTEMA DE ABASTECIMIENTO DE AGUA}{5}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Sistema de captación}{5}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Línea de aducción}{5}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Reservorio de almacenamiento}{5}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Red de distribución}{5}{section.4.4}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{6}{section.4.4}%
